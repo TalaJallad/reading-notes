@@ -21,10 +21,10 @@ In this website, you will find summaries of my reading notes as a *software deve
 * [Read 08](Read08.md)
 * [Read 09](Read09.md)
 * [Read 10](Read10.md)
-* [Read 11](Read10.md)
-* [Read 12](Read10.md)
-* [Read 13](Read10.md)
-* [Read 14](Read10.md)
-* [Read 15](Read10.md)
+* [Read 11](Read11.md)
+* [Read 12](Read12.md)
+* [Read 13](Read13.md)
+* [Read 14](Read14.md)
+* [Read 15](Read15.md)
 
 
