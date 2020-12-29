@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-![](https://i1.wp.com/educatorthemes.com/wp-content/uploads/2019/06/welcome-banner-confetti-dots.jpg?fit=2880%2C864&ssl=1)
+![](https://media.istockphoto.com/photos/banner-with-hand-of-woman-drawing-on-notebook-picture-id1127489698?k=6&m=1127489698&s=170667a&w=0&h=uh05HnvlTOCfpNcfJR3-T4MjUpkiCg72Og3YPcIpdU4=)
 
 ## About Me
 My name is Tala Jallad. I am 22 years old and studying *software development* with ASAC.
