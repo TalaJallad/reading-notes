@@ -3,7 +3,7 @@
 ![](https://media.istockphoto.com/photos/banner-with-hand-of-woman-drawing-on-notebook-picture-id1127489698?k=6&m=1127489698&s=170667a&w=0&h=uh05HnvlTOCfpNcfJR3-T4MjUpkiCg72Og3YPcIpdU4=)
 
 ## About Me
-My name is Tala Jallad. I am 22 years old and studying *software development* with ASAC.
+My name is **Tala Jallad**. I am 22 years old and studying *software development* with ASAC.
 
 ## What is this?
 
