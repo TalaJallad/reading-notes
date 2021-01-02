@@ -4,9 +4,9 @@ Objects group together a set of variables and functions to create a model of a s
 
 * In objects Variables are called **properties** and Functions are called **Mthods**. 
 ### Properties refer to general information about the object.
-### Methods refer to the taks related to the object.
+### Methods refer to the tasks related to the object.
 
-* The names of proporties and methode are called **keys**. 
+* The names of proporties and methods are called **keys**. 
 * The value of property key: string, boolean, number array, or another object.
 * The value of a method key: a function only.
 ### Example of object structure:
@@ -15,11 +15,11 @@ Objects group together a set of variables and functions to create a model of a s
 
 ## Literal Notion
 * this is the easiest way to create objects.
-* keys are seperated from their values with a colon. 
-* We can access properties and methods of an object usin the **dot notion**:
+* keys are separated from their values with a colon. 
+* We can access properties and methods of an object using the **dot notion**:
 nameofobject.nameofmethod/property
 
-*The dot in the syntax above is called a *member operater*: this means that the method/property is a member of the object. 
+*The dot in the syntax above is called a *member operator*: this means that the method/property is a member of the object. 
 
 # The Document Object Model (DOM)
 * It is a set of rules that specifies how we can access and edit a live website.
