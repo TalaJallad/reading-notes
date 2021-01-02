@@ -27,7 +27,7 @@ We can control the posiotion of those elements on the web page in different ways
 1. Normal flow: every block-level element appears on a new line. {position: static;
 2. Relative positioning: shifts elements to top, bottom, right, left. {position: relative;
 3. Absolute positioning: positioned in relation to its containing element and moves when we scroll. {position: absolute;
-4. Fixed positioning: positioned in relation to the web browser page and does not move when scrolling.   {position: fixed;
+4. Fixed positioning: positioned in relation to the web browser page and does not move when scrolling.   GIT{position: fixed;
 5. Floating elements: position to the far right or left. {float: right/left;
 
 # Functions in JavaScript
