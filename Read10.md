@@ -6,12 +6,12 @@ be used anywhere because it has global scope.
 it can only be used within that function.
 
 ## Notes: 
-*When a statement has to call some other code in oder to do its job,
+* When a statement has to call some other code in order to do its job,
 the new task goes to the top of the pile of things to do.
-* Wee can call functions before they have been declared
+* We can call functions before they have been declared.
 if they were created using function declarations not function expressions/Anonymous functions.
-* We can assign a value to a va ria ble that has not yet been
-declared
+* We can assign a value to a variable that has not yet been
+declared.
 * "Imagine that each function is a nesting doll. The children can ask the parents for information in their variables. But the parents cannot get variables from their children. Each child will get the same answer from the same parent."
 * If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. If the error is not handled,
 the script will just stop processing and the user will
@@ -21,12 +21,12 @@ not know why.
 ![](errors.png)
 
 ## What to do when you encounter an error:
-1. Debug the script to fix errors: track the source of the error and fix it.
+### 1. Debug the script to fix errors: track the source of the error and fix it.
 ### 1.1 Review the error message in the console
 ### 1.2 Check when the script is breaking
 ### 1.3 Use breakpoints where things are going wrong
 ### 1.4 If nothing works, try rubber duck debugging.
-2. Handle errors gracefully: using try, catch, throw, and finally statement. (when you can't solve an error)
+### 2. Handle errors gracefully: using try, catch, throw, and finally statement. (when you can't solve an error)
 
 ```
 try {
@@ -46,6 +46,6 @@ finally {
 4. console.group() can be used to group the messages together.
 5. console.table() can be used to output a table showing: 
 -objects  -arrays that contain other objects or arrays
-6. console.assert() can test if acondition is met, and write 
+6. console.assert() can test if a condition is met, and write 
 to the console only if the expression evaluates to false.
 
