@@ -1,5 +1,5 @@
 # Canvas & Charts.js
- ## What is `<canvas>'?
+ ## What is `<canvas>`?
  It is an HTML tag that acts as a container for graphics created in JavaScript. 
  ## What is Charts.js?
  It is a JS library that includes samples of code for creating charts.
